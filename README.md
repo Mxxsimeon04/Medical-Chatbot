@@ -1,7 +1,7 @@
-#Medical Chatbot How to Guide
+Medical Chatbot How to Guide
 This Chatbot is a proof of concept for Low English Proficiency/ Low Medical Knowledge trainer for health care professionals.
 
-##Setup
+Setup
 - Go to this link (https://aistudio.google.com/app/apikey) and log onto your Gmail Account 
 - Under the "It's time to build" Pop-up select the "Get API key"
 - Press the "Create API key" button
